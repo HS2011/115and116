@@ -1,0 +1,10 @@
+h1{
+    font-size: 30px !important;
+}
+button{
+    font-size: 20px !important;
+}
+canvas{
+    
+    border: 10px dotted black;
+}
